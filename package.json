@@ -1,0 +1,28 @@
+{
+  "name": "com.scottdoxey.unity-sliced-svg-image",
+  "displayName": "Unity Sliced SVG Image",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "unityRelease": "33f1",
+  "description": "Experimental component for rendering sliced SVG images.",
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.vectorgraphics": "2.0.0-preview.24"
+  },
+  "keywords": [
+    "unity",
+    "svg",
+    "vector",
+    "sliced"
+  ],
+  "author": {
+    "name": "Scott Doxey",
+    "email": "hello@scottdoxey.com",
+    "homepage": "http://scottdoxey.com/"
+  },
+  "homepage": "https://github.com/neogeek/unity-sliced-svg-image",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:neogeek/unity-sliced-svg-image.git"
+  }
+}
